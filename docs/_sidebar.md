@@ -48,6 +48,8 @@
 
 * [Glossary](about/glossary.md)
 
+* [Bug Bounty](about/bug-bounty.md)
+
 * [Formal Specification :arrow_upper_right:](https://spec.interlay.io/)
 
 ---

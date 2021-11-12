@@ -1,4 +1,3 @@
-
 :root {
   --base-font: 12px;
   --theme-color   :#1A0A2D;
@@ -16,4 +15,19 @@
 
 .app-name-link img {
   width: 5em;
+}
+
+.docs-button {
+  background-color: var(--primary-blue);
+  border: none;
+  color: white !important;
+  text-align: center;
+  text-decoration: none !important;
+  display: block;
+  padding: 1em 2rem;
+  border-radius: var(--border-radius-m);
+}
+
+.util-w100 {
+  width: 100%
 }
